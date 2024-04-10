@@ -1,0 +1,25 @@
+.mision-vision-container {
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px; /* Ajusta el valor según el radio deseado */
+  }
+
+  .vision-image,
+.mission-image {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ajusta los valores según tus preferencias */
+}
+  
+  .vision-text,
+  .mission-text {
+    background-color:#f7f4f4;
+    border-radius: 1px;
+    padding: 3%;
+    margin-top: 20px;
+    border-radius: 20px; /* Ajusta el valor según el radio deseado */
+  }
+  
+  .vision-text p,
+  .mission-text p {
+    margin-top: 5px;
+  }
+  

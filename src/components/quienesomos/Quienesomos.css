@@ -1,0 +1,48 @@
+
+
+  .quien-content {
+  /*  background-image: url("../../images/fondoazul7.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el contenedor */
+    padding: 30px;
+    text-align: center;
+    
+  }
+  
+  .titulo2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+    color: #ffffff;
+
+    /* Otros estilos para el título */
+  }
+  
+  .contenido2 {
+    text-align: center;
+    padding: 1%;
+  }
+  
+  .texto2 {
+    background-color: #fafafa;
+    padding: 3%;
+    border-radius: 10px;
+  
+
+    max-width: 800px; /* Ancho máximo del cuadro de contenido */
+    margin: 0 auto; /* Centrar el cuadro de contenido horizontalmente */
+    text-align: left; /* Alineación del texto a la izquierda dentro del cuadro de contenido */
+    font-size: 23px;
+  }
+
+  .texto2 p {
+    margin-bottom: 10px; /* Espacio entre párrafos */
+  }
+
+
+.logo2{
+    display: block;
+  margin: 0 auto 0px; /* Centrar la imagen horizontalmente y agregar espacio abajo */
+  padding: 30px; /* Agregar espacio alrededor de la imagen */
+
+}
